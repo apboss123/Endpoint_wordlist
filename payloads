@@ -1,0 +1,1 @@
+redirect_uri=%2Fwebservices%2Fcert%2F%0D%0ALog-Test: header-injected%0D%0ASet-Cookie: test=1%0D%0AContent-Type: text/html%0D%0AContent-Length: 30%0D%0A%0D%0ATestContentHere
