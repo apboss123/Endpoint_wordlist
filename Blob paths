@@ -1,5 +1,5 @@
 /assets/config.json
-dev/config.yaml
+/dev/config.yaml
 /configs/settings.json
 /gallerydb-backup-stg?comp=list
 /stagelogs?comp=list
