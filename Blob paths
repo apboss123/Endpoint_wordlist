@@ -1,1 +1,6 @@
-
+/assets/config.json
+dev/config.yaml
+/configs/settings.json
+/gallerydb-backup-stg?comp=list
+/stagelogs?comp=list
+/poproject?comp=list
